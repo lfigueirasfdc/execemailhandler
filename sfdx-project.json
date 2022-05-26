@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://resourceful-otter-u1wlgz-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "51.0"
+}
